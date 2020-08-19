@@ -1,4 +1,4 @@
-| [Home](/index.html) 	| [Technical Contributions](/contributions.html) 	| [Events](/events.html) 	| [Recommended Reading](/books.html) 	| [Professional Profile](http://jaheruddin.nl) 	|
+| [Home](/index.md) 	| [Technical Contributions](/contributions.md) 	| [Events](/events.md) 	| [Recommended Reading](/books.md) 	| [Professional Profile](http://jaheruddin.nl) 	|
 |:-:	|:-:	|:-:	|:-:	|:-:	|
 
 Home
